@@ -1,0 +1,45 @@
+{
+    "_id": "642402b05c9c5bbf400036ef",
+    "index": 0,
+    "guid": "4c6fbf3e-bd7e-4675-b1e5-2e01a2a5ec80",
+    "isActive": true,
+    "balance": "$2,739.53",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Vazquez May",
+    "gender": "male",
+    "company": "NORALI",
+    "email": "vazquezmay@norali.com",
+    "phone": "+1 (828) 418-2980",
+    "address": "289 Seaview Court, Elizaville, New York, 4540",
+    "about": "Tempor et deserunt in adipisicing. Voluptate exercitation sit nisi fugiat minim enim irure minim consectetur qui duis deserunt mollit in. Cillum sit veniam cupidatat anim dolor veniam veniam quis nisi ex reprehenderit cillum. Magna mollit nostrud magna laborum veniam excepteur voluptate elit consectetur sint excepteur non. Aliquip labore cillum sint ullamco sunt ex.\r\n",
+    "registered": "2022-06-20T05:37:32 -02:00",
+    "latitude": -59.374025,
+    "longitude": -42.064511,
+    "tags": [
+        "dolor",
+        "incididunt",
+        "enim",
+        "ex",
+        "excepteur",
+        "incididunt",
+        "sit"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Lea Fernandez"
+        },
+        {
+            "id": 1,
+            "name": "Goodwin Dorsey"
+        },
+        {
+            "id": 2,
+            "name": "Claudia Price"
+        }
+    ],
+    "greeting": "Hello, Vazquez May! You have 4 unread messages.",
+    "favoriteFruit": "strawberry"
+}
