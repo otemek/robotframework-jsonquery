@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "robotframework-jsonquery"
-version = "1.0.0"
+version = "1.0.1"
 description = "Robot Framework library for parsing json files"
 authors = ["tom bsc <etombsc@gmail.com>"]
 license = "MIT"
@@ -12,11 +12,11 @@ python = "^3.9"
 robotframework = "*"
 jsonpath_ng = "< 2"
 jmespath = "< 2"
-pytest = "^7.3.1"
 
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
+pytest = "^7.3.1"
 
 [build-system]
 requires = ["poetry-core"]
