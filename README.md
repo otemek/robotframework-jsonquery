@@ -12,7 +12,7 @@ Library    JsonQuery    jsonpath-ng.ext
 *** Test Cases ***
 Read and query json file
     ${file}    Read Json File    sample.json
-    Query Json    ${file}    friends[?(@.id>1)]    #jsonpath-ng.ext syntax
+    ${result}   Query Json    ${file}    friends[?(@.id>1)]    #jsonpath-ng.ext syntax
 
 ```
 
@@ -23,6 +23,6 @@ Library    JsonQuery    jmespath
 *** Test Cases ***
 Read and query json file
     ${file}    Read Json File    sample.json
-    Query Json    ${file}    friends[?id>`1`]    #jmespath syntax
+    ${result}   Query Json    ${file}    friends[?id>`1`]    #jmespath syntax
 
 ```
