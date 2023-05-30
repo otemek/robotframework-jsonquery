@@ -1,4 +1,4 @@
-# robotframework-jsonquery [![tests](https://github.com/otemek/robotframework-jsonquery/actions/workflows/robotlib.yml/badge.svg?branch=master)](https://github.com/otemek/robotframework-jsonquery/actions/workflows/robotlib.yml)
+# robotframework-jsonquery [![tests](https://github.com/otemek/robotframework-jsonquery/actions/workflows/robotlib.yml/badge.svg?branch=master)](https://github.com/otemek/robotframework-jsonquery/actions/workflows/robotlib.yml) [![PyPI version](https://badge.fury.io/py/robotframework-jsonquery.svg)](https://badge.fury.io/py/robotframework-jsonquery)
 Simple wrapper for libraries used to query json files with different query language implementations
 - jsonpath-ng.ext (extended version with e.g. filters)
 - jsonpath-ng
