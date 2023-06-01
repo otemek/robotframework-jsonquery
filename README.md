@@ -26,3 +26,6 @@ Read and query json file
     ${result}   Query Json    ${file}    friends[?id>`1`]    #jmespath syntax
 
 ```
+
+## Documentation
+-   [Keyword Documentation](https://github.com/otemek/robotframework-jsonquery/doc/JsonQuery.html)
