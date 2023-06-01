@@ -28,4 +28,4 @@ Read and query json file
 ```
 
 ## Documentation
--   [Keyword Documentation](https://github.com/otemek/robotframework-jsonquery/doc/JsonQuery.html)
+-   [Keyword Documentation](https://otemek.github.io/robotframework-jsonquery/JsonQuery.html)
