@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "robotframework-jsonquery"
-version = "1.0.2"
+version = "1.0.3"
 description = "Robot Framework library for parsing json files"
 authors = ["tom bsc <etombsc@gmail.com>"]
 repository = "https://github.com/otemek/robotframework-jsonquery"
